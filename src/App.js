@@ -1,5 +1,5 @@
 import React from "react";
-import Card from "./product/Card";
+import Card from "./product/Product";
 import Nav from "./Components/Nav";
 import About from "./Components/About";
 import { BrowserRouter as Router, Route } from "react-router-dom";
